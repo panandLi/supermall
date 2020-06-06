@@ -42,10 +42,9 @@ export default {
 <style>
   .tab-bar-item{
     text-align: center;
-    width: 30px;
+    width: 65px;
     height: 49px;
     font-size: 14px;
-    border: black solid 1px;
   }
   .tab-bar-item img{
     width: 22px;

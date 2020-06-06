@@ -20,6 +20,6 @@ export default {
     display: flex;
     justify-content: space-around;
     background: pink;
-    box-shadow: 0 -1px 5px rgba(100,100,100,.4);
+    box-shadow: 0 -1px 5px rgba(100,100,100,.2);
   }
 </style>
